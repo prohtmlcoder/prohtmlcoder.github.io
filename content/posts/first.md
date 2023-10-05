@@ -1,0 +1,9 @@
+---
+title: "First Post"
+date: 2023-10-05T13:32:37+05:30
+description: "Journey Untill Now..."
+tags: ["FirstBlog","Blog"]
+---
+Hi There, this is my first post in this blog. I would like to share my journey until now. Initially, I started with [Plenti](plenti.co/). It is a Svelte and Go based Static Site Generator that I found quite intuitive and easier to use. I liked it's structure and organisation of pages of the site, moreover it is does not have any external dependencies as it comes with both Go and Svelte built right into it's binary. I choose a theme and started customizing it to my taste. This is where the actual pain started. I am more or less a beginner with respect to Github and building and deploying the website. The github actions that were given in the Plenti were running fine but the website is not deployed properly. I tried few things like changing the image of ubuntu to latest and updating few things but none of them worked. Let me reiterate once again that it Plenti is not at fault but my lack of skillset is. I am so impressed by Plenti that I am planning to migrate this whole blog to it in near future.
+
+Then I am more or less stated from the scratch, I checked few more SSGs like [Astro](https://astro.build/), [Elder JS](https://elderguide.com/tech/elderjs/) and [Hugo](https://gohugo.io/) .  After a quick overview of each, I want something that just work out of the box like Plenti does.  So I went back to Plenti once again, and hit a dead end while trying to deploy it. I iterated like this few times until I came across [JustAGuyLinux](https://www.youtube.com/watch?v=s1O-8zhPQmU) tutorial. It is so clean and to the point I just replicated it. And that folks, is how this blog is setup. There is a small section in this website called Brief, where you can find small titbits that can improve the quality of life. There is a easter egg in the about page go find it. See you soon in the next post.

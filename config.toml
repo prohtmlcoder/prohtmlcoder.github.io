@@ -1,0 +1,71 @@
+baseURL = "https://prohtmlcoder.github.io/"
+languageCode = "en-us"
+title = "ProHTMLCoder"
+theme = "hugo-ink-fork"
+paginate = 5
+
+copyright = "© Copyright notice"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ink-demo"
+
+[params]
+	subtitle = "Where Bytes and Brevity Collide..."
+
+	# Optional 64x64 avatar image.
+	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[[menu.main]]
+name = "Brief"
+url = "/brief"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 6
+
+
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/prohtmlcoder"
+
+[[params.social]]
+name = "Reddit"
+icon = "reddit"
+url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmljayByb2w%3D"
+
+[taxonomies]
+   tag = "tags"

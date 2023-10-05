@@ -1,0 +1,3 @@
+[submodule "themes/hugo-ink-fork"]
+	path = themes/hugo-ink-fork
+	url = https://github.com/174414-Rodda/hugo-ink-fork.git
