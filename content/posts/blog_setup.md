@@ -2,6 +2,7 @@
 title: "Blog Setup"
 date: 2023-10-06T10:51:34+05:30
 description: "Setup your own blog under 10 mins"
+draft: false
 type: "page"
 tags: ["hugo","blog","github"]
 ---
